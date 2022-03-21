@@ -1,0 +1,51 @@
+/*Centro de biotecnologia agropecuario 
+Analisis y desarrollo de software 
+Ficha:24709780
+Autor:Paula Juliana Acosta Alarcon 
+fecha de creacion: 19 marzo 2022
+fecha de actualizacion: 19 de marzo 2022*/
+
+#acosta{
+    background-color: lightcoral;
+    border:3px; color:cornflowerblue; 
+    text-align: center;
+   
+    
+}
+ #cuadrado1{
+     background-color: lavender;
+     border:3px; color: blueviolet;
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     height: 300px;
+ }
+
+ #cuadrado2{
+     background-color: lavenderblush;
+     border: 3px; color: darkmagenta;
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     height: 300px;
+ }
+ #cuadrado3{
+     background-color: lightpink;
+     border: 3px; color: mediumpurple;
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     height: 300px;
+ }
+
+ #pie_1{
+     background-color: lightgrey;
+     border: 3px; color: crimson;
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+ }
+ #pie_2{
+     background-color: plum;
+     border:3px; color: darkslateblue;
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
